@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Social Distancing App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="locations">
+        <item>Supermarché Marjan</item>
+        <item>Supermarché At9daou</item>
+        <item>Adminsitration 1</item>
+        <item>Adminsitration 2</item>
+        <item>Souiqa 1</item>
+        <item>Souiqa 2</item>
+
+    </string-array>
+</resources>
